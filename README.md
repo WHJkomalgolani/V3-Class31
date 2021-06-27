@@ -3,6 +3,8 @@
 Youtube link:
 https://youtu.be/vmo00ILgXjg
 
+https://youtu.be/Hq7KGsfkq5I
+
 to do list:
 C31 - 
 1) Load the animations for the blinking and eating and sad bunny
